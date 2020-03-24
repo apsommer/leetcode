@@ -70,9 +70,7 @@ class Solution {
                 if (!isRoomEntered.get(key)) {
                     currentRoom = key;
                 }
-
             }
-
         }
 
         // search through all rooms is impossible
